@@ -11,7 +11,7 @@ class TestScenarioOne(baseclass):  # every class name should have a test on it
 
         homepage = c_homepage(self.driver)
 
-        # STORE BOOK 1 TITLE
+        # STORE BOOK 1 TITLE git git git git git
         booktitle1 = homepage.m_booktitle1()
         print(booktitle1)
 
